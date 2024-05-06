@@ -46,4 +46,6 @@ Meu nome é Gilvany, também conhecido como Thury (ou nine) em círculos mais í
 <div> <h2>Pick the vision </h2>
  <h3>Não deixe o barulho da opinião dos outros abafar sua voz interior. E mais importante, tenha a coragem de seguir seu coração e sua intuição. Eles de alguma forma já sabem o que você realmente quer se tornar. Tudo o mais é secundário. <br/>
 -Steve Jobs</h3></div>
-
+<div>
+<img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg">
+</div>
